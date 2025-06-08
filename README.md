@@ -20,14 +20,5 @@ This repository highlights my contribution to the **Medical Website** project un
 - 🌸 **Program Name:** GirlScript Summer of Code – Extended Edition 2024  
 - 📌 **Role:** Contributor  
 - 🏆 **PR Status:** Merged successfully!  
-- 🐙 **Badge Earned:** [Pull Shark](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/about-badges#pull-shark)
-
-
-
-
-
-  - Medical-website: https://github.com/tushargupta1504/Medical-Website
-  - Contribution: [Pull Request #660] https://github.com/tushargupta1504/Medical-Website/pull/660
-  - Description: Added hover effect over navbar menu and improved homepage.
-  - Program: GirlScript Summer of Code - Extended 2024 🎉  
+- 🐙 **Badge Earned:** [Pull Shark](https://github.com/users/Gunpreet08/achievements/pull-shark)  
 
